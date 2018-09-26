@@ -1,0 +1,12 @@
+h1 {
+  color: pink;
+}
+
+.large-text {
+    font-style: italic;
+    color: purple;
+}
+
+#slogan-text{
+    color: blue;
+}
