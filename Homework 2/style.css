@@ -1,0 +1,55 @@
+h3 {
+  font-size: 30px;
+  color: brown;
+  text-decoration: underline;
+  text-decoration: uppercase;
+}
+
+#cookies {
+  max-width: 300px;
+  height: auto;
+}
+
+table, td, th {
+  border: 1px solid brown
+}
+
+.sugars{
+  width: 100px;
+  height: 100px;
+}
+
+.butter{
+  width: 100px;
+  height: 100px;
+}
+
+.vanilla{
+  width: 100px;
+  height: 100px;
+}
+
+.egg{
+  width: 100px;
+  height: 100px;
+}
+
+.APF{
+  width: 100px;
+  height: 100px;
+}
+
+.Bsoda{
+  width: 100px;
+  height: 100px;
+}
+
+.salt{
+  width: 100px;
+  height: 100px;
+}
+
+.cchips{
+  width: 100px;
+  height: 100px;
+}
