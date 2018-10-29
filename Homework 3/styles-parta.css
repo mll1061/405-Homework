@@ -20,14 +20,14 @@ html {
   border-radius: 1.5em;
 }
 
- .card footer {
+.card header {
   background-image: linear-gradient(to bottom,rgba(0,0,0,0.1), rgba(0,0,0,0));
   border-radius: 1.5em 1.5em 0 0;
   max-height: 4.167em;
 
 }
 
-.card header {
+.card footer {
   background-image: linear-gradient(to bottom,rgba(0,0,0,0), rgba(0,0,0,0.1));
   border-radius: 0 0 1.5em 1.5em;
   max-height: 4.167em;
@@ -36,4 +36,5 @@ html {
 .card article img {
   max-height: 100%;
   float: right;
+
 }
