@@ -56,7 +56,7 @@ html {
 
 .card article {
     height: 12em;
-    background: black(0.5);
+    background: rgba(0,0,0,0.3);
 }
 
 .card h2 {
