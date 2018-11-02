@@ -56,20 +56,20 @@ html {
 
 .card article {
     height: 12em;
-    background: grey;
+    background: black(0.5);
 }
 
 .card h2 {
     font-size: 2em;
-    line-height:
+    line-height: 1.5em;
 }
 
 .card footer p {
     font-size: 1.5em;
-    line-height:
+    line-height: 2em;
 }
 
 .card article p {
-    padding:
-    color: silver;
+    padding: 1em;
+    color: white;
 }
