@@ -2,9 +2,16 @@ html {
   font-family: sans-serif;
 }
 
-/* Your CSS below here */
 
 p {
-  width: 200px
-   
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  font-size: 1.7rem;
+  /* 1rem=10px */
+  background-color: pink;
+  color: pink;
+  text-shadow: 2px 2px 3px black;
+  border-radius: 10px;
+  border: 1px salmon;
 }
