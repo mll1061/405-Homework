@@ -5,13 +5,14 @@ html {
 
 p {
   width: 200px;
-  height: 70px;
+  line-height: 3;
   text-align: center;
   font-size: 1.7rem;
   /* 1rem=10px */
-  background-color: pink;
-  color: pink;
-  text-shadow: 2px 2px 3px black;
+  background-color: rgb(255,192,203);
+  color: rgb(255,192,203);
+  text-shadow: 2px 2px 2px black;
   border-radius: 10px;
-  border: 1px solid red;
+  border: 1px solid rgb(200,192,203);
+  background-image: linear-gradient(to bottom right, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30% rgba(0,0,0,0));
 }
