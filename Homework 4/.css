@@ -1,1 +1,32 @@
-ul 
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.left-box {
+  background-color: pink;
+  flex-grow: 1;
+}
+
+.right-box {
+  background-color: violet;
+  flex-grow: 0;
+}
+
+.row-2 {
+  display: flex;
+
+}
+
+.article-1 {
+  display:flex;
+  justify-content: center;
+}
+
+.article-1 figure {
+  border: 1px solid black;
+  margin: 0;
+  flex-grow: 1;
+  text-align: center;
+}
