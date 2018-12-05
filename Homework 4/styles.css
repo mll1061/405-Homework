@@ -47,6 +47,8 @@
 }
 
 .right-box {
+  display: flex;
+  justify-content: center;
   background-color: #ff7cbc;
   flex-grow: 0;
 }
