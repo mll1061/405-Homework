@@ -49,6 +49,7 @@
 .right-box {
   background-color: #ff7cbc;
   flex-grow: 0;
+  justify-content: space-around;
 }
 
 .row-3{
