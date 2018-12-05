@@ -1,6 +1,6 @@
 .top-nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   list-style-type: none;
 }
 
