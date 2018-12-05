@@ -4,24 +4,14 @@
   list-style-type: none;
 }
 
-.left-box {
-  background-color: pink;
-  flex-grow: 1;
-}
-
-.right-box {
-  background-color: violet;
-  flex-grow: 0;
-}
-
 .row-2 {
   display: flex;
 
 }
 
-.article-1 {
-  display:flex;
-  justify-content: center;
+.left-box {
+  background-color: #ff96c9;
+  flex-grow: 1;
 }
 
 .article-1 figure {
@@ -29,4 +19,41 @@
   margin: 0;
   flex-grow: 1;
   text-align: center;
+}
+
+.article-1 {
+  display:flex;
+  justify-content: center;
+}
+
+.plastics {
+  width: 15px;
+  height: auto;
+}
+
+.burnbook {
+  width: 15px;
+  height: auto;
+}
+
+.christmas {
+  width: 15px;
+  height: auto;
+}
+
+.right-box {
+  background-color: #ff7cbc;
+  flex-grow: 0;
+}
+
+.row-3{
+  display: flex;
+  justify-content: center;
+  background-color: #f44198;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: #ba3b79;
 }
