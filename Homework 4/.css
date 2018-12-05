@@ -26,6 +26,21 @@
   justify-content: center;
 }
 
+.plastics {
+  text-align: justify;
+  width: 200px;
+}
+
+.burnbook {
+  text-align: justify;
+  width: 200px;
+}
+
+.christmas {
+  text-align: justify;
+  width: 200px;
+}
+
 .right-box {
   background-color: #ff7cbc;
   flex-grow: 0;
