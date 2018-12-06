@@ -15,14 +15,14 @@
   flex-grow: 1;
 }
 
-.article-1 figure {
+.section-1 figure {
   border: 1px solid black;
   margin: 0;
   flex-grow: 1;
   text-align: center;
 }
 
-.article-1 {
+.section-1 {
   display:flex;
   justify-content: center;
 }
