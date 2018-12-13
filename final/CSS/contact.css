@@ -1,0 +1,25 @@
+
+.email {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.phone {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+
+}
+
+.address {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.row-3{
+  display: flex;
+  justify-content: center;
+  background-color: #90d3db;
+}

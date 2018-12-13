@@ -1,0 +1,95 @@
+.top-nav {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  background-color: #90d3db;
+}
+
+.top-nav {
+  margin: 0px;
+}
+
+.row-2 {
+  display: flex;
+
+}
+
+.left-box {
+  background-color: #a4ecf4;
+  flex-grow: 1;
+  text-align: center;
+}
+
+
+.article-1 figure {
+  border: 1px solid black;
+  margin: 0;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.article-1 {
+  display:flex;
+  justify-content: center;
+}
+
+.email {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.phone {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+
+}
+
+.surgery {  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.roze {  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.me {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+
+.address {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.right-box {
+  background-color: #a4ecf4;
+  flex-grow: 0;
+}
+
+.row-3{
+  display: flex;
+  justify-content: center;
+  background-color: #90d3db;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: #6cc1cc;
+}
+
+body {
+  margin: 0px;
+}
+
+ul {
+  padding: 0px;
+}

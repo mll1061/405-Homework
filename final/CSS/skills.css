@@ -1,0 +1,14 @@
+.left-box-S {
+  background-color: #a4ecf4;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.box ul{
+  list-style: none;
+}
+
+.box {
+    border: 1px solid black;
+}
